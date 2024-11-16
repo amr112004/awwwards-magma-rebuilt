@@ -110,72 +110,72 @@ window.addEventListener("resize", function () {
 
 function files(index) {
   var data = `
-    assets/frames00007.png 
-    assets/frames00010.png 
-    assets/frames00013.png
-    assets/frames00016.png
-    assets/frames00019.png 
-    assets/frames00022.png 
-    assets/frames00025.png 
-    assets/frames00028.png 
-    assets/frames00031.png 
-    assets/frames00034.png 
-    assets/frames00037.png 
-    assets/frames00040.png 
-    assets/frames00043.png 
-    assets/frames00046.png 
-    assets/frames00049.png 
-    assets/frames00052.png 
-    assets/frames00055.png 
-    assets/frames00058.png 
-    assets/frames00061.png 
-    assets/frames00064.png 
-    assets/frames00067.png 
-    assets/frames00070.png 
-    assets/frames00073.png 
-    assets/frames00076.png 
-    assets/frames00079.png 
-    assets/frames00082.png 
-    assets/frames00085.png 
-    assets/frames00088.png 
-    assets/frames00091.png 
-    assets/frames00094.png 
-    assets/frames00097.png 
-    assets/frames00100.png 
-    assets/frames00103.png 
-    assets/frames00106.png 
-    assets/frames00109.png 
-    assets/frames00112.png 
-    assets/frames00115.png 
-    assets/frames00118.png 
-    assets/frames00121.png 
-    assets/frames00124.png 
-    assets/frames00127.png 
-    assets/frames00130.png 
-    assets/frames00133.png 
-    assets/frames00136.png 
-    assets/frames00139.png 
-    assets/frames00142.png 
-    assets/frames00145.png 
-    assets/frames00148.png 
-    assets/frames00151.png 
-    assets/frames00154.png 
-    assets/frames00157.png 
-    assets/frames00160.png 
-    assets/frames00163.png 
-    assets/frames00166.png 
-    assets/frames00169.png 
-    assets/frames00172.png 
-    assets/frames00175.png 
-    assets/frames00178.png 
-    assets/frames00181.png 
-    assets/frames00184.png 
-    assets/frames00187.png 
-    assets/frames00190.png 
-    assets/frames00193.png 
-    assets/frames00196.png 
-    assets/frames00199.png 
-    assets/frames00202.png
+    /frames00007.png 
+    /frames00010.png 
+    /frames00013.png
+    /frames00016.png
+    /frames00019.png 
+    /frames00022.png 
+    /frames00025.png 
+    /frames00028.png 
+    /frames00031.png 
+    /frames00034.png 
+    /frames00037.png 
+    /frames00040.png 
+    /frames00043.png 
+    /frames00046.png 
+    /frames00049.png 
+    /frames00052.png 
+    /frames00055.png 
+    /frames00058.png 
+    /frames00061.png 
+    /frames00064.png 
+    /frames00067.png 
+    /frames00070.png 
+    /frames00073.png 
+    /frames00076.png 
+    /frames00079.png 
+    /frames00082.png 
+    /frames00085.png 
+    /frames00088.png 
+    /frames00091.png 
+    /frames00094.png 
+    /frames00097.png 
+    /frames00100.png 
+    /frames00103.png 
+    /frames00106.png 
+    /frames00109.png 
+    /frames00112.png 
+    /frames00115.png 
+    /frames00118.png 
+    /frames00121.png 
+    /frames00124.png 
+    /frames00127.png 
+    /frames00130.png 
+    /frames00133.png 
+    /frames00136.png 
+    /frames00139.png 
+    /frames00142.png 
+    /frames00145.png 
+    /frames00148.png 
+    /frames00151.png 
+    /frames00154.png 
+    /frames00157.png 
+    /frames00160.png 
+    /frames00163.png 
+    /frames00166.png 
+    /frames00169.png 
+    /frames00172.png 
+    /frames00175.png 
+    /frames00178.png 
+    /frames00181.png 
+    /frames00184.png 
+    /frames00187.png 
+    /frames00190.png 
+    /frames00193.png 
+    /frames00196.png 
+    /frames00199.png 
+    /frames00202.png
  `;
   return data.split("\n")[index];
 }
@@ -264,59 +264,59 @@ window.addEventListener("resize", function () {
 
 function files(index) {
   var data = `
-assets/bridges00007.png
-assets/bridges00010.png
-assets/bridges00013.png
-assets/bridges00016.png
-assets/bridges00019.png
-assets/bridges00022.png
-assets/bridges00025.png
-assets/bridges00028.png
-assets/bridges00031.png
-assets/bridges00034.png
-assets/bridges00037.png
-assets/bridges00040.png
-assets/bridges00043.png 
-assets/bridges00046.png 
-assets/bridges00049.png 
-assets/bridges00052.png 
-assets/bridges00055.png 
-assets/bridges00058.png 
-assets/bridges00061.png 
-assets/bridges00064.png 
-assets/bridges00067.png 
-assets/bridges00070.png
-assets/bridges00073.png 
-assets/bridges00076.png 
-assets/bridges00079.png 
-assets/bridges00082.png 
-assets/bridges00085.png 
-assets/bridges00088.png 
-assets/bridges00091.png 
-assets/bridges00094.png 
-assets/bridges00097.png 
-assets/bridges00100.png 
-assets/bridges00103.png 
-assets/bridges00106.png 
-assets/bridges00109.png 
-assets/bridges00112.png 
-assets/bridges00115.png 
-assets/bridges00118.png 
-assets/bridges00121.png 
-assets/bridges00124.png 
-assets/bridges00127.png 
-assets/bridges00130.png 
-assets/bridges00133.png 
-assets/bridges00136.png 
-assets/bridges00139.png 
-assets/bridges00142.png 
-assets/bridges00145.png 
-assets/bridges00148.png 
-assets/bridges00151.png 
-assets/bridges00154.png 
-assets/bridges00157.png 
-assets/bridges00160.png 
-assets/bridges00163.png 
+/bridges00007.png
+/bridges00010.png
+/bridges00013.png
+/bridges00016.png
+/bridges00019.png
+/bridges00022.png
+/bridges00025.png
+/bridges00028.png
+/bridges00031.png
+/bridges00034.png
+/bridges00037.png
+/bridges00040.png
+/bridges00043.png 
+/bridges00046.png 
+/bridges00049.png 
+/bridges00052.png 
+/bridges00055.png 
+/bridges00058.png 
+/bridges00061.png 
+/bridges00064.png 
+/bridges00067.png 
+/bridges00070.png
+/bridges00073.png 
+/bridges00076.png 
+/bridges00079.png 
+/bridges00082.png 
+/bridges00085.png 
+/bridges00088.png 
+/bridges00091.png 
+/bridges00094.png 
+/bridges00097.png 
+/bridges00100.png 
+/bridges00103.png 
+/bridges00106.png 
+/bridges00109.png 
+/bridges00112.png 
+/bridges00115.png 
+/bridges00118.png 
+/bridges00121.png 
+/bridges00124.png 
+/bridges00127.png 
+/bridges00130.png 
+/bridges00133.png 
+/bridges00136.png 
+/bridges00139.png 
+/bridges00142.png 
+/bridges00145.png 
+/bridges00148.png 
+/bridges00151.png 
+/bridges00154.png 
+/bridges00157.png 
+/bridges00160.png 
+/bridges00163.png 
  `;
   return data.split("\n")[index];
 }
@@ -406,7 +406,7 @@ function canvas3() {
       function files(index) {
       var data = `
       
-      https://thisismagma.com/assets/home/lore/seq/1.webp?2
+      https://thisismagma.com//home/lore/seq/1.webp?2
       https://thisismagma.com/assets/home/lore/seq/2.webp?2
       https://thisismagma.com/assets/home/lore/seq/3.webp?2
       https://thisismagma.com/assets/home/lore/seq/4.webp?2
